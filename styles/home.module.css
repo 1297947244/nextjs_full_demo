@@ -1,0 +1,6 @@
+.container {
+  min-height: 100vh;
+  border: 1px solid red;
+  background-image: url(/static/img/bg7.jpg);
+  color: #fff;
+}
