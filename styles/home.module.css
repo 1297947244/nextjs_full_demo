@@ -1,6 +1,7 @@
 .container {
-  min-height: 100vh;
-  border: 1px solid red;
-  background-image: url(/static/img/bg7.jpg);
+  flex: 1;
+  text-align: center;
+  padding-top: 100px;
   color: #fff;
+  background-color: lightgray;
 }
